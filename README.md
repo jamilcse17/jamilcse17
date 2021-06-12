@@ -1,7 +1,8 @@
 # 👋 Hi,  I’m @jamil from Bangladesh and I do content on Software Design, Development and Problem solving. I really enjoy learning languages and frameworks.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilcse17)](https://github.com/anuraghazra/github-readme-stats)
 
-Skill: C/C++/PYTHON/SQL/ HTML/CSS
+My Programming language Skill: C/C++/PYTHON/SQL/PHP/ HTML/CSS
+Networking Skill: Cisco
 
 - 🔭 I’m currently working on this page. 
 
