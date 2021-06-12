@@ -1,9 +1,6 @@
 # 👋 Hi,  I’m @jamil from Bangladesh and I do content on Software Design, Development and Problem solving. I really enjoy learning languages and frameworks.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilcse17&show_icons=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jamilcse17)  
-
-
 My Programming language Skill: C/C++/PYTHON/SQL/PHP/ HTML/CSS
 
 Networking Skill: Cisco
@@ -19,6 +16,9 @@ Networking Skill: Cisco
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamilcse17)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilcse17)](https://github.com/jamilcse17/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jamilcse17)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/jamilcse17)  
 
