@@ -1,4 +1,4 @@
-# 👋 Hi,  I’m @jamil from Bangladesh and I do content on Software Design, Development,Problem solving and Software Quality assurence(SQA). I really enjoy learning languages and frameworks.
+# 👋 Hi,  I’m @jamil from Bangladesh and I do content on Software Design, Development,Problem solving ,Database,Software Quality assurence(SQA) and Networking as well. I really enjoy learning languages and frameworks and very excited in networking and Wireless communication releted issues .
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamilcse17&show_icons=true) 
 
 My Programming language Skill: C/C++/PYTHON/SQL/PHP/ HTML/CSS
